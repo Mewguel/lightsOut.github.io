@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LightsOut</string>
+    <string name="lights_out_text">Lights Out!</string>
+    <string name="enter_name">Enter Your Name</string>
+    <string name="play">Play!</string>
+    <string name="empty"></string>
+    <string name="box">boxes</string>
+    <string name="zero">0</string>
+    <string name="retry_text">RETRY</string>
+    <string name="congrats_textview">CONGRATULATIONS!</string>
+    <string name="trophy">trophy</string>
+</resources>
